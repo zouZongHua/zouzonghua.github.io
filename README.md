@@ -9,7 +9,7 @@
 - 邹宗华/男/1997
 - 函授专科/广东科学技术职业学院/计算机网络技术
 - 工作年限：2.5+ 年
-- Github: [https://github.com/zouzonghua](https://www.github.com/zouzonghua)
+- Github: [https://www.github.com/zouzonghua](https://www.github.com/zouzonghua)
 - 个人博客：[https://blog.zouzonghua.cn](https://www.zouzonghua.cn)
 - 期望职位：Web 前端工程师
 - 期望城市：深圳
