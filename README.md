@@ -105,7 +105,7 @@
 
 # 自我评价
 - 具备良好的沟通合作能力、抗压能力、有耐心、和较强的责任心及团队合作精神，很强的服务意识。
-- 具备良好代码编写习惯，代码风格统一需要使用 VSCode+ESLint+Airbnb 检验，使用 git-cz 提交格式化的 commit 记录[(Angular 规范)](https://docs.google.com/document/d/1QrDFcIiPjSLDn3EL15IJygNPiHORgU1_OOAqWjiDU5Y/edit#)，合理的注释风格，代码的可拓展性和维护性。
+- 具备良好代码编写习惯，代码风格统一使用 VSCode+ESLint+Airbnb 检验，使用 git-cz 提交格式化的 commit 记录[(Angular 规范)](https://docs.google.com/document/d/1QrDFcIiPjSLDn3EL15IJygNPiHORgU1_OOAqWjiDU5Y/edit#)，合理的注释风格，代码的可拓展性和维护性。
 - 信奉极简主义，每周坚持 跑步、阅读书籍，喜欢折腾学习各种新玩意儿(软路由、Nas 系统、编程技术、计算机相关技术)，喜欢逛 YouTube、github、B 站、掘金。
 
 ---
