@@ -71,22 +71,6 @@
 - 使用 React-hooks 钩子函数 + Redux、Redux-thunk、React-Redux、immutable 等数据管理框架编写页面组件
 - 使用 高德地图 Api 实现定位功能等需求
 
-### 梦蓝微健康（微信小程序）+ 后台管理（PC 端）
-
-> 梦蓝微健康，一个关于健康质询、健康类文章、在线问诊、疫情上报等功能的一个医疗相关的项目
-
-- 使用 wepy2.0 框架 + 有赞官方推出的 Vant UI 框架开发
-- 使用 Vuex 全局保存用户信息、方便读取权限判断 操作小程序交互页面数据的渲染和逻辑判断
-- 使用 WebScoket、Vuex、wx.setStorage、wx.getStorage 实现本地历史聊天记录缓存优化接口调用
-- 使用 htmlParse 在小程序中解析 html 标签 实现健康类文章展示详情
-  后台系统
-- 基于 Vue-cli 脚手架生成项目模板
-- 使用 axios 封装全局拦截请求
-- 使用 js-cookie 保存用户 token 浏览器本地方便鉴权
-- 使用 element-ui 框架进行页面布局
-- 使用 Vuex 和 vue-router 进行保存用户信息、菜单信息、权限信息 控制
-- 使用 WebScoket、Vuex、localStorage 实现本地历史聊天记录缓存优化接口调用
-- 使用 富文本插件 实现文章发布功能
 
 # 开源项目和作品
 
